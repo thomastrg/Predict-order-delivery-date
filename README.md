@@ -3,11 +3,7 @@
 ## Introduction 
 
 This repository hosts a project that iams to predict the delay between the creation and the shipment of an order. It depends on the provider, the date, the day and the hour of the week and many other features.
-
-<br> 
-
 <br>
-
 
 ## You will find in this repositery : 
 * [The notebook](https://github.com/thomastrg/Predict-order-delivery-date/blob/main/TD1_model_duration_pred.ipynb)
