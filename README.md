@@ -12,6 +12,7 @@ This repository hosts a project that iams to predict the delay between the creat
 
 ## This project is implemented in Python and gathers tasks of :  
 * Data visualisation : show correlations between the data and the target on the Jupyter Notebook
+* Data manipulation & creation : we have 4 columns in this dataset, we created features thanks to theses columns
 * Interpretation and comprehension of the operational business needs
 * Machine learning algorithm modelisation on the Jupyter Notebook
 
